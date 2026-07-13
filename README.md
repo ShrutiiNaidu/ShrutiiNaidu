@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hello! I'm Shruti Naidu 🚀  <br>A passionate Data Science student who loves learning and building projects.<br><br>🔭 Currently working on Python & Data Science projects  <br>👯 Open to collaborating on analytics & ML projects  <br>🤝 Seeking help in mastering advanced concepts  <br>🌱 Learning Data Science | AI | SQL | DBMS  <br>💬 Ask me about Python programming & data basics  <br>⚡ Fun fact: I enjoy solving coding challenges 😄<br><br>
+👋 Hello! I'm Shruti Naidu 🚀  <br>A passionate Data Science student who loves learning and building projects.<br><br>🔭 Currently working on Python & Data Science projects  <br>👯 Open to collaborating on analysis & ML projects  <br>🤝 Seeking help in mastering advanced concepts  <br>🌱 Learning Data Science | AI | SQL | DBMS  <br>💬 Ask me about Python programming & data basics  <br>⚡ Fun fact: I enjoy solving coding challenges 😄<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shruti-naidu-159562361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naidushruti34@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-naidu-a2b98937b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naidushruti34@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
