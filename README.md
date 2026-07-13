@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Shruti Naidu 🚀  <br>A passionate Data Science student who loves learning and building projects.<br><br>🔭 Currently working on Python & Data Science projects  <br>👯 Open to collaborating on analytics & ML projects  <br>🤝 Seeking help in mastering advanced concepts  <br>🌱 Learning Data Science | AI | SQL | DBMS  <br>💬 Ask me about Python programming & data basics  <br>⚡ Fun fact: I enjoy solving coding challenges 😄<br><br>
+👋 Hello! I'm Shruti Naidu 🚀  <br>A passionate Data Science student who loves learning and building projects.<br><br>🔭 Currently working on Python & Data Science projects  <br>👯 Open to collaborating on analysis & ML projects  <br>🤝 Seeking help in mastering advanced concepts  <br>🌱 Learning Data Science | AI | SQL | DBMS  <br>💬 Ask me about Python programming & data basics  <br>⚡ Fun fact: I enjoy solving coding challenges 😄<br><br>
 
 
 ## 🌐 Socials:
